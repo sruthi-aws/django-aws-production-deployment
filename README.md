@@ -305,7 +305,7 @@ The Django application was then accessed through the EC2 public IP:
 http://<EC2-PUBLIC-IP>
 ```
 
-## 📚 Key Learning Outcomes
+##  Key Learning Outcomes
 
 Through this project, I gained practical exposure to:
 
@@ -321,7 +321,7 @@ Through this project, I gained practical exposure to:
 * Troubleshooting deployment and server configuration issues
 * Using Git and GitHub for project management
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective of this project was to understand the **end-to-end deployment of a Django application on AWS EC2** and gain practical experience with commonly used production deployment components such as **Linux, Gunicorn, Nginx, Git, and AWS EC2**.
 
